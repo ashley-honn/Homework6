@@ -2,7 +2,7 @@
 Read a speech file named “book.txt” that may have multiple lines. 
 Then create a “summary.txt” file that has the frequency of each letter, 
 case-insensitive, i.e., “a” and “A” are the same letter. 
-Each line has a record of the letter and frequency. ''' 
+Each line has a record of the letter and frequency.. ''' 
 
 import os 
 
